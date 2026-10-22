@@ -5,10 +5,10 @@ I like building things that work well *and* look good, from Java desktop apps to
 
 ## 🛠️ Tech I work with
 
-**Languages:** Java · C++ · SQL · x86 Assembly · HTML · CSS · JavaScript
-**Frameworks & tools:** JavaFX · MySQL · HTML5 Canvas · Git & GitHub
-**Concepts:** Object-Oriented Programming · File Handling · Database Design
-**Design:** Adobe Illustrator · Canva
+- **Languages:** Java · C++ · SQL · x86 Assembly · HTML · CSS · JavaScript
+- **Frameworks & tools:** JavaFX · MySQL · HTML5 Canvas · Git & GitHub
+- **Concepts:** Object-Oriented Programming · File Handling · Database Design
+- **Design:** Adobe Illustrator · Canva
 
 ## 📂 Projects
 
